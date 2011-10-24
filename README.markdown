@@ -35,7 +35,9 @@ View crontab to confirm an added command:
 crontab -l
 ```
 
-#### Remove from crontab
+---
+
+### Remove from crontab
 To remove the script form your crontab and stop it running periodically run:
 ```
 whenever -c
