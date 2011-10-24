@@ -1,0 +1,8 @@
+user: user
+password: password
+host: localhost
+encoding: utf8
+dir: /tmp
+databases: [test, mysql]
+backlog: 30
+backup_prefix: test
